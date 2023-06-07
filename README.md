@@ -62,6 +62,6 @@ class program1
 }
 ```
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Recursive-function/blob/main/out2.png)
 ## Result:
 To write a C# program to reverse a number using recursive function is executed successfully.
